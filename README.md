@@ -1,6 +1,6 @@
 # Terraria (ModPacks) - Download
 
-MORE EXPANDED = [MoreexpandedModPack.zip](https://github.com/RedMoDsPro/Terraria-ModPack/files/8184359/MoreexpandedModPack.zip)
+`MORE EXPANDED` = [MoreexpandedModPack.zip](https://github.com/RedMoDsPro/Terraria-ModPack/files/8184359/MoreexpandedModPack.zip)
 
 (TO INSTALL, COPY FILE TO C:\Users\Documents\My Games\Terraria\ModLoader\Mods\ModPacks)
 
