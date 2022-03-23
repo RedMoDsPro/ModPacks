@@ -5,7 +5,7 @@
 * MY WORLD AND CHARACTER  = [WorldAndCharacter.zip](https://github.com/RedMoDsPro/ModPacks/files/8187792/WorldAndCharacter.zip)                                         
 (TO INSTALL, COPY FILE TO C:\Users\Documents\My Games\Terraria\ModLoader\Beta\Worlds & Players)  
 
-`SOULS OF THE DEATH`  = [SoulsDeathModPack.zip](https://github.com/RedMoDsPro/Terraria-ModPack/files/8184363/SoulsDeathModPack.zip) `MODS` = https://mega.nz/folder/GmwxjIyC#uW2e18Qz344O3pzVXP5ohA  
+`SOULS OF THE DEATH`  = [SoulsDeathModPack.zip](https://github.com/RedMoDsPro/Terraria-ModPack/files/8184363/SoulsDeathModPack.zip) `MODS` =     https://mega.nz/folder/GmwxjIyC#uW2e18Qz344O3pzVXP5ohA                     
 `TMODLOADER = v1.3.5.3 v0.11.8.8`                        
 (TO INSTALL, COPY FILE TO C:\Users\Documents\My Games\Terraria\ModLoader\Mods\ModPacks)                                   
 * MY WORLD AND CHARACTER  =                                                                                                       
